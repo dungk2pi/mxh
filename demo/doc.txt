@@ -1,0 +1,6 @@
+một số vấn đề cần làm rõ:
+
+1. block all vx vào đc trang cá nhân ?
+2. xem xét bỏ collection friend, thay bằng trường listFriend trong collection user
+
+SƠn sói + nội dung
